@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - A C programming that prints
- *return: 0
+ *Return: 0
 */
 
 int main(void)
