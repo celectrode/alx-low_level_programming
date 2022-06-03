@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *main - A C programming that prints "with proper grammar, but the outcome is a piece of art,"
+ *main - A C programming that prints 
  *return: 0
 */
 int main(void)
