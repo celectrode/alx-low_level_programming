@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
- * main - A C program that prints character value
- * return: 0
+/**
+ *main - A C program that prints character value
+ *
+ * Return: 0
 */
 
 int main(void)
